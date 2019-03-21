@@ -1,6 +1,6 @@
 
 
-## App - Crear, guardar, listar por con sola
+## App - Crear, guardar, listar por consola
 
 Aplicación para crear, guardar, listar en un JSON
 
