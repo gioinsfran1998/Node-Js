@@ -1,7 +1,7 @@
 
-## App - Crear, guardar, listar por consola
+## App - Crear, guardar, listar, borrar por consola
 
-Aplicación para crear, guardar, listar en un JSON
+Con JSON
 
 Ejecutar este comando para instalar los paquetes de node  
 
